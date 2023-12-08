@@ -11,6 +11,22 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/></p>
 
+<h2 align="center">🚀 Raghav Khanna - Backend Maestro & Cloud Aficionado</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  Crafting robust backend systems and cloud architectures is my forte. With a storied track record at Nokia and Accenture, my contributions breathe life into enterprise solutions.
+</p>
+
+<p align="center">
+  🌟 Continuously pushing the envelope on tech innovation, I find joy in demystifying the latest trends for the developer community.<br>
+  🛠️ Outside of the 9-to-5, I tinker with personal projects that often turn into professional masterpieces.<br>
+  💬 Keen on connecting? Let's unite our tech passions! Reach out on LinkedIn: 
+  <a href="https://www.linkedin.com/in/raghavkhanna222/">
+    <img src="https://img.shields.io/badge/-Raghav%20Khanna-blue?style=flat&logo=Linkedin&logoColor=white">
+  </a>
+</p>
+
 <h2 align="center">🔧 Technical Skills</h2>
 <p align="center">
   <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
@@ -35,21 +51,6 @@
   <strong>Tools:</strong> Visual Studio, IntelliJ, Android Studio, Oxygen XML, Git, Gerrit, SSRS, Postman<br>
 </p>
 
-<h2 align="center">🚀 Raghav Khanna - Backend Maestro & Cloud Aficionado</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  Crafting robust backend systems and cloud architectures is my forte. With a storied track record at Nokia and Accenture, my contributions breathe life into enterprise solutions.
-</p>
-
-<p align="center">
-  🌟 Continuously pushing the envelope on tech innovation, I find joy in demystifying the latest trends for the developer community.<br>
-  🛠️ Outside of the 9-to-5, I tinker with personal projects that often turn into professional masterpieces.<br>
-  💬 Keen on connecting? Let's unite our tech passions! Reach out on LinkedIn: 
-  <a href="https://www.linkedin.com/in/raghavkhanna222/">
-    <img src="https://img.shields.io/badge/-Raghav%20Khanna-blue?style=flat&logo=Linkedin&logoColor=white">
-  </a>
-</p>
 
 ---
 

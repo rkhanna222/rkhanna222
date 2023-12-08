@@ -11,24 +11,29 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/></p>
 
-## :hammer_and_wrench: Technical Toolbox
+<h2 align="center">🔧 Technical Skills</h2>
+<p align="center">
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"></code>
+  <!-- Add more icons as needed -->
+</p>
 
-```javascript
-const RaghavSkills = {
-  languages: ["Java", "Python", "Kotlin", "JavaScript", "Golang", "Shell Scripting"],
-  web tech: ["ReactJS", "NodeJS", "Bootstrap", "HTML", "CSS", "Rest API", "SaaS"],
-  AWS services: [
-    "DynamoDB", "Lambda", "CloudWatch", "CloudFormation", 
-    "S3", "IAM", "RDS", "EC2", "VPC", "Route53"
-  ],
-  cloud infra: ["Terraform", "Packer", "GitHub", "Unix", "RabbitMQ"],
-  DevOps: ["Jenkins", "Docker", "Kubernetes"],
-  databases: ["MySQL", "Oracle 12c", "PostgreSQL", "MongoDB", "Redis"],
-  tools: ["Visual Studio", "IntelliJ", "Android Studio", "Oxygen XML", "Git", "Gerrit", "SSRS", "Postman"]
-};
-
-console.log("Creating awesome software solutions with:", RaghavSkills);
-```
+<p align="center">
+  <strong>Web Technologies:</strong> ReactJS, NodeJS, Bootstrap, HTML, CSS, Rest API, SaaS<br>
+  <strong>AWS Services:</strong> DynamoDB, Lambda, CloudWatch, CloudFormation, S3, IAM, RDS, EC2, VPC, Route53<br>
+  <strong>Cloud & Infrastructure Tech:</strong> Terraform, Packer, GitHub, Unix, RabbitMQ<br>
+  <strong>DevOps and CI/CD:</strong> Jenkins, Docker, Kubernetes<br>
+  <strong>Database:</strong> MySQL, Oracle 12c, PostgreSQL, MongoDB, Redis<br>
+  <strong>Tools:</strong> Visual Studio, IntelliJ, Android Studio, Oxygen XML, Git, Gerrit, SSRS, Postman<br>
+</p>
 
 ### :man_technologist: &nbsp;About Me :
 

@@ -35,16 +35,24 @@
   <strong>Tools:</strong> Visual Studio, IntelliJ, Android Studio, Oxygen XML, Git, Gerrit, SSRS, Postman<br>
 </p>
 
-### :man_technologist: &nbsp;About Me :
+<h2 align="center">🚀 Raghav Khanna - Backend Maestro & Cloud Aficionado</h2>
 
-I am a Software Developer with a strong focus on backend technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  Crafting robust backend systems and cloud architectures is my forte. With a storied track record at Nokia and Accenture, my contributions breathe life into enterprise solutions.
+</p>
 
-- 🔭 I've contributed to complex backend solutions at Nokia and Accenture.
-- 🌱 I’m constantly exploring new technologies and innovations in software development.
-- ⚡ In my free time, I enjoy working on personal projects and staying updated with the latest industry trends.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-[Your LinkedIn Name]-blue?style=flat&logo=Linkedin&logoColor=white)]([Your LinkedIn URL])
+<p align="center">
+  🌟 Continuously pushing the envelope on tech innovation, I find joy in demystifying the latest trends for the developer community.<br>
+  🛠️ Outside of the 9-to-5, I tinker with personal projects that often turn into professional masterpieces.<br>
+  💬 Keen on connecting? Let's unite our tech passions! Reach out on LinkedIn: 
+  <a href="https://www.linkedin.com/in/raghavkhanna222/">
+    <img src="https://img.shields.io/badge/-Raghav%20Khanna-blue?style=flat&logo=Linkedin&logoColor=white">
+  </a>
+</p>
 
 ---
+
 
 ### 🛠 &nbsp;Languages and Tools :
 
@@ -53,8 +61,7 @@ I am a Software Developer with a strong focus on backend technologies <img src="
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-  
-... [More icons based on your skills] ...
+
 </p>
 
 ---
